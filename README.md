@@ -1,5 +1,3 @@
-# Animix Miniapp Automation
-![image](https://github.com/user-attachments/assets/77db525e-7917-45d1-9b73-401f6529d9f3)
 
 
 This script automates various tasks for the Animix miniapp telegram.
@@ -27,8 +25,8 @@ This script automates various tasks for the Animix miniapp telegram.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/hokireceh/animix.git
-    cd animix
+    git clone https://github.com/zainarain279/animix-new.git
+    cd animix-new
     ```
 
 2. Install the required dependencies:
@@ -49,12 +47,3 @@ This script automates various tasks for the Animix miniapp telegram.
     npm run start
     ```
 
-## ☕️ Traktir kopinya & Thanks for Supporting us:
-
-- https://sociabuzz.com/silviaroyshieta/tribe
-- **EVM : `0x5d4fe1f909015d35bd4d9b51a38ea5c3c8a4c6ea`**
-- **SOLANA : `FUaAeT5ZAT4ifPYPTWfKnvvqmi6yJdTPvHapG5gqcGZW`**
-
-## ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
-This project is licensed under the [MIT License](LICENSE).
